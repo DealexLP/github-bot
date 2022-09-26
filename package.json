@@ -1,0 +1,27 @@
+{
+  "name": "github-bot",
+  "version": "1.0.0",
+  "description": "Cool bot to flex lol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DealexLP/github-bot.git"
+  },
+  "author": "David Dunkel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DealexLP/github-bot/issues"
+  },
+  "homepage": "https://github.com/DealexLP/github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.20",
+    "random": "^3.0.3",
+    "simple-git": "^2.37.0"
+  }
+}
